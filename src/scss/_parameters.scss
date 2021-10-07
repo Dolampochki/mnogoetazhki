@@ -1,0 +1,22 @@
+body {
+
+}
+
+ul {
+  list-style: none;
+}
+
+.parameters {
+  width: 360px;
+  height: 100vh;
+  background-color: #ccc;
+  position: fixed;
+  left: 0;
+  top: 0;
+  ul {
+    list-style: none;
+    li {
+      margin: 1rem;
+    }
+  }
+}
